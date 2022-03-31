@@ -12,18 +12,19 @@ Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
 :root {
     /* 
     Farben
+    Select word duplicates with Ctrl+Shift+L
     ----------------------------------------*/
-    --cölor-mi-blau: rgb(73, 82, 225);
-    --cölor-mi-pink: #dd1166;
-    --cölor-mi-gruen: #00AD2F;
-    --cölor-mi-lila: #9313ce;
-    --cölor-mi-lila-light: #C8BBCE;
-    --cölor-mi-black: #231f20;
-    --cölor-mi-grau: #aaaaaa;
-    --cölor-text: #000;
-    --cölor-headlines: #666;
-    --cölor-backgrounds: #efefef;
-    --cölor-borders: rgba(0, 0, 0, 0.3);
+    --color-mi-blau: rgb(73, 82, 225);
+    --color-mi-pink: #dd1166;
+    --color-mi-gruen: #00AD2F;
+    --color-mi-lila: #9313ce;
+    --color-mi-lila-light: #C8BBCE;
+    --color-mi-black: #231f20;
+    --color-mi-grau: #aaaaaa;
+    --color-text: #000;
+    --color-headlines: #666;
+    --color-backgrounds: #efefef;
+    --color-borders: rgba(0, 0, 0, 0.3);
     /* 
     Abstände. Hierzu gibt es auch ein schönes Konzept
     https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62 */
